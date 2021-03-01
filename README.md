@@ -20,4 +20,4 @@ To do this an adversary could exploit:
 - etc... the list goes on
 
 ## About Us
-Both Ethan and Brandon graduated from the University of Sothern California's Viterbi School of Engineering. Ethan earned his B.S. Computer Science and Business Administration degree in December 2020 and graduated with honors. Brandon earned his B.S. Computer Science degree in December 2019 and is currently a software engineer at Raytheon Intelligence and Space.
+Both Ethan and Brandon graduated from the University of Southern California's (USC) Viterbi School of Engineering. Ethan earned his B.S. Computer Science and Business Administration degree in December 2020 and graduated with honors. Brandon earned his B.S. Computer Science degree in December 2019 and is currently a software engineer at Raytheon Intelligence and Space.
